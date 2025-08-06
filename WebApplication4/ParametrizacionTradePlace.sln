@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametrizacionTradePlace", "WebApplication4\ParametrizacionTradePlace.csproj", "{C620FF33-CAD6-4E85-82F8-BD3F51297561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C620FF33-CAD6-4E85-82F8-BD3F51297561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C620FF33-CAD6-4E85-82F8-BD3F51297561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C620FF33-CAD6-4E85-82F8-BD3F51297561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C620FF33-CAD6-4E85-82F8-BD3F51297561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCD1782-3DC8-4694-833E-576396D760B1}
+	EndGlobalSection
+EndGlobal
