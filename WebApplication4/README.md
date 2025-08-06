@@ -7,3 +7,6 @@
 # Guardar Data
 ![Agregar Tiendas](https://github.com/pmbaldac/Web-Form-C-Shap/blob/main/WebApplication4/ruta/guardarinformacion.jpg?raw=true)
 
+# Eliminar Data
+![Agregar Tiendas](https://github.com/pmbaldac/Web-Form-C-Shap/blob/main/WebApplication4/ruta/eliminarinformacion.jpg.jpg?raw=true)
+
